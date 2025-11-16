@@ -33,5 +33,6 @@ Slicers
 Conditional Formatting  
 Data Cleaning with Excel formulas  
 
-# Screenshot-https://github.com/AnujTiwari27/Coffee-Shop-Sale/blob/main/Coffee%20Dashboard%20screenshot.png  
+# Screenshot-  
+https://github.com/AnujTiwari27/Coffee-Shop-Sale/blob/main/Coffee%20Dashboard%20screenshot.png  
 ![Dashboard-screenshot](https://github.com/AnujTiwari27/Coffee-Shop-Sale/blob/main/Coffee%20Dashboard%20screenshot.png)
